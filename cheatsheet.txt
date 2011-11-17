@@ -27,3 +27,6 @@
 157> [OO || <<OO>> <= << <<I>> || I <- "hi">> ].
 "hi"
 
+% -import(Module, [Function1/Arity, ..., FunctionN/Arity]).
+
+rd-rf-rl-rp
